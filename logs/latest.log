@@ -1,0 +1,87 @@
+[11:41:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:41:05] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[11:41:07] [Worker-Main-1/INFO]: Loaded 7 recipes
+[11:41:10] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[11:41:10] [Server thread/INFO]: Loading properties
+[11:41:10] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 22aaf91)
+[11:41:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:41:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:41:10] [Server thread/INFO]: Default game type: SURVIVAL
+[11:41:10] [Server thread/INFO]: Generating keypair
+[11:41:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:41:10] [Server thread/INFO]: Using default channel type
+[11:41:10] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[11:41:10] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[11:41:11] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.1
+[11:41:11] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.1 is now loaded, injecting!
+[11:41:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[11:41:12] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[11:41:12] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.0.1
+[11:41:12] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[11:41:13] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[11:41:13] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[11:41:13] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[11:41:13] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[11:41:13] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[11:41:13] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[11:41:13] [Via-Mappingloader-8/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[11:41:13] [Via-Mappingloader-9/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[11:41:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[11:41:13] [Via-Mappingloader-9/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[11:41:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:41:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:41:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:41:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:41:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:41:13] [Server thread/INFO]: Preparing level "world"
+[11:41:14] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[11:41:14] [Via-Mappingloader-9/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[11:41:14] [Via-Mappingloader-9/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[11:41:14] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[11:41:15] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[11:41:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:41:16] [Server thread/INFO]: Time elapsed: 540 ms
+[11:41:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:41:16] [Server thread/INFO]: Time elapsed: 238 ms
+[11:41:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:41:16] [Server thread/INFO]: Time elapsed: 172 ms
+[11:41:16] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.1
+[11:41:16] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.0.1
+[11:41:16] [Server thread/INFO]: Running delayed init tasks
+[11:41:16] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[11:41:17] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[11:41:17] [Server thread/INFO]: Done (6.930s)! For help, type "help"
+[11:41:17] [Server thread/INFO]: Timings Reset
+[11:42:10] [User Authenticator #1/INFO]: UUID of player alexshcer is 6c98bccf-57db-3f32-b98d-09d60ff38d07
+[11:42:10] [Server thread/INFO]: alexshcer joined the game
+[11:42:10] [Server thread/INFO]: alexshcer[/127.0.0.1:52580] logged in with entity id 228 at ([world]12.926213254095906, 70.0, -223.2506218102072)
+[11:42:17] [Server thread/INFO]: alexshcer lost connection: Disconnected
+[11:42:18] [Server thread/INFO]: alexshcer left the game
+[11:46:03] [Server thread/INFO]: Villager EntityVillager['Villager'/135, uuid='29671c21-8576-4d73-aa31-91fac76e35c2', l='ServerLevel[world]', x=65.62, y=68.00, z=-268.85, cpos=[4, -17], tl=21576, v=true, rR=null] died, message: 'Villager suffocated in a wall'
+[11:50:54] [User Authenticator #2/INFO]: UUID of player alexshcer is 6c98bccf-57db-3f32-b98d-09d60ff38d07
+[11:50:54] [Server thread/INFO]: alexshcer joined the game
+[11:50:54] [Server thread/INFO]: alexshcer[/[0:0:0:0:0:0:0:1]:52685] logged in with entity id 258 at ([world]13.699999988079071, 69.0, -223.30000001192093)
+[11:51:16] [Server thread/INFO]: alexshcer tried to swim in lava
+[11:51:29] [Server thread/INFO]: alexshcer lost connection: Disconnected
+[11:51:29] [Server thread/INFO]: alexshcer left the game
+[11:58:15] [User Authenticator #3/INFO]: UUID of player alexshcer is 6c98bccf-57db-3f32-b98d-09d60ff38d07
+[11:58:15] [Server thread/INFO]: alexshcer joined the game
+[11:58:15] [Server thread/INFO]: alexshcer[/127.0.0.1:52757] logged in with entity id 394 at ([world]23.558705736185843, 70.0, -220.8856610095774)
+[11:58:20] [Server thread/INFO]: alexshcer lost connection: Disconnected
+[11:58:20] [Server thread/INFO]: alexshcer left the game
+[11:58:33] [Server thread/INFO]: Stopping server
+[11:58:33] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.0.1
+[11:58:33] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.0.1
+[11:58:33] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[11:58:33] [Server thread/INFO]: Saving players
+[11:58:33] [Server thread/INFO]: Saving worlds
+[11:58:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[11:58:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[11:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:58:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:58:34] [Server thread/INFO]: Flushing Chunk IO
+[11:58:34] [Server thread/INFO]: Closing Thread Pool
+[11:58:34] [Server thread/INFO]: Closing Server
